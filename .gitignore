@@ -1,0 +1,7 @@
+# Confidențiale – NU publica
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc

@@ -1,0 +1,67 @@
+[
+    {
+        "isbn": "0385504209",
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "composite_score": 10.57,
+        "book_rating": 8.44,
+        "book_reviews": 974,
+        "distinct_countries": 29,
+        "author_rating": 8.12,
+        "author_reviews": 2230,
+        "cover_image": "http://images.amazon.com/images/P/0385504209.01.LZZZZZZZ.jpg",
+        "synopsis": "No description available"
+    },
+    {
+        "isbn": "0312195516",
+        "title": "The Red Tent (Bestselling Backlist)",
+        "author": "Anita Diamant",
+        "composite_score": 10.22,
+        "book_rating": 8.18,
+        "book_reviews": 766,
+        "distinct_countries": 20,
+        "author_rating": 8.1,
+        "author_reviews": 884,
+        "cover_image": "http://images.amazon.com/images/P/0312195516.01.LZZZZZZZ.jpg",
+        "synopsis": "No description available"
+    },
+    {
+        "isbn": "0446310786",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "composite_score": 10.21,
+        "book_rating": 8.94,
+        "book_reviews": 428,
+        "distinct_countries": 16,
+        "author_rating": 8.99,
+        "author_reviews": 562,
+        "cover_image": "http://images.amazon.com/images/P/0446310786.01.LZZZZZZZ.jpg",
+        "synopsis": "No description available"
+    },
+    {
+        "isbn": "0439139597",
+        "title": "Harry Potter and the Goblet of Fire (Book 4)",
+        "author": "J. K. Rowling",
+        "composite_score": 10.05,
+        "book_rating": 9.26,
+        "book_reviews": 274,
+        "distinct_countries": 12,
+        "author_rating": 8.97,
+        "author_reviews": 3492,
+        "cover_image": "http://images.amazon.com/images/P/0439139597.01.LZZZZZZZ.jpg",
+        "synopsis": "No description available"
+    },
+    {
+        "isbn": "0446672211",
+        "title": "Where the Heart Is (Oprah's Book Club (Paperback))",
+        "author": "Billie Letts",
+        "composite_score": 9.99,
+        "book_rating": 8.14,
+        "book_reviews": 590,
+        "distinct_countries": 17,
+        "author_rating": 8.07,
+        "author_reviews": 784,
+        "cover_image": "http://images.amazon.com/images/P/0446672211.01.LZZZZZZZ.jpg",
+        "synopsis": "No description available"
+    }
+]

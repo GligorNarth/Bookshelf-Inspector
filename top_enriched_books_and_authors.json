@@ -1,0 +1,92 @@
+[
+    {
+        "book_details": {
+            "isbn": "0385504209",
+            "title": "The Da Vinci Code",
+            "composite_score": 10.57,
+            "book_rating": 8.44,
+            "book_reviews": 974,
+            "distinct_countries": 29,
+            "cover_image": "http://images.amazon.com/images/P/0385504209.01.LZZZZZZZ.jpg",
+            "synopsis": "No description available"
+        },
+        "author_details": {
+            "name": "Dan Brown",
+            "author_rating": 8.12,
+            "author_reviews": 2230,
+            "biography": "Daniel Gerhard Brown is an American writer best known for his thriller novels, particularly the Robert Langdon series Angels & Demons (2000), The Da Vinci Code (2003), The Lost Symbol (2009), Inferno (2013), Origin (2017) and The Secret of Secrets (2025). His novels are treasure hunts that usually take place over a 24-hour period and center on recurring themes of cryptography, art, and conspiracy theories."
+        }
+    },
+    {
+        "book_details": {
+            "isbn": "0312195516",
+            "title": "The Red Tent (Bestselling Backlist)",
+            "composite_score": 10.22,
+            "book_rating": 8.18,
+            "book_reviews": 766,
+            "distinct_countries": 20,
+            "cover_image": "http://images.amazon.com/images/P/0312195516.01.LZZZZZZZ.jpg",
+            "synopsis": "No description available"
+        },
+        "author_details": {
+            "name": "Anita Diamant",
+            "author_rating": 8.1,
+            "author_reviews": 884,
+            "biography": "Anita Diamant is an American journalist and writer of fiction and non-fiction books."
+        }
+    },
+    {
+        "book_details": {
+            "isbn": "0446310786",
+            "title": "To Kill a Mockingbird",
+            "composite_score": 10.21,
+            "book_rating": 8.94,
+            "book_reviews": 428,
+            "distinct_countries": 16,
+            "cover_image": "http://images.amazon.com/images/P/0446310786.01.LZZZZZZZ.jpg",
+            "synopsis": "No description available"
+        },
+        "author_details": {
+            "name": "Harper Lee",
+            "author_rating": 8.99,
+            "author_reviews": 562,
+            "biography": "Nelle Harper Lee was an American novelist whose 1960 novel To Kill a Mockingbird won the 1961 Pulitzer Prize and became a classic of modern American literature. She assisted her close friend Truman Capote in his research for the book In Cold Blood (1966). An earlier draft of Mockingbird, set at a later date, Go Set a Watchman, was published in July 2015 as a sequel. A collection of her short stories and essays, The Land of Sweet Forever, was published on October 21, 2025."
+        }
+    },
+    {
+        "book_details": {
+            "isbn": "0439139597",
+            "title": "Harry Potter and the Goblet of Fire (Book 4)",
+            "composite_score": 10.05,
+            "book_rating": 9.26,
+            "book_reviews": 274,
+            "distinct_countries": 12,
+            "cover_image": "http://images.amazon.com/images/P/0439139597.01.LZZZZZZZ.jpg",
+            "synopsis": "No description available"
+        },
+        "author_details": {
+            "name": "J. K. Rowling",
+            "author_rating": 8.97,
+            "author_reviews": 3492,
+            "biography": "Joanne Rowling, better known by her pen name J. K. Rowling, is a British author, philanthropist, producer, and screenwriter. She is best known for writing Harry Potter, a seven-volume series about a young wizard and the best-selling book series in history, with over 600 million copies sold. She also writes Cormoran Strike, an ongoing crime fiction series, under the alias Robert Galbraith."
+        }
+    },
+    {
+        "book_details": {
+            "isbn": "0446672211",
+            "title": "Where the Heart Is (Oprah's Book Club (Paperback))",
+            "composite_score": 9.99,
+            "book_rating": 8.14,
+            "book_reviews": 590,
+            "distinct_countries": 17,
+            "cover_image": "http://images.amazon.com/images/P/0446672211.01.LZZZZZZZ.jpg",
+            "synopsis": "No description available"
+        },
+        "author_details": {
+            "name": "Billie Letts",
+            "author_rating": 8.07,
+            "author_reviews": 784,
+            "biography": "Billie Dean Letts was an American novelist and educator. She was a professor at Southeastern Oklahoma State University."
+        }
+    }
+]
